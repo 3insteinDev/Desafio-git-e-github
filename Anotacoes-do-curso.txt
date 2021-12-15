@@ -1,0 +1,7 @@
+Buscando aprimoramento no uso das ferramentas de versionamento Git e GitHub.
+
+Neste momento farei um commit, e atualizarei o repositório remoto.
+
+E com o link, aproveite pra ver alguns pequenos projetos desenvolvidos.
+
+Muito obrigado pela oportunidade.
